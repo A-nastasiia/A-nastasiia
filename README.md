@@ -2,7 +2,8 @@
 </div>  
   
 <div  display: flex;
-        gab: 20px;>
+        gab: 20px;
+  flex-direction: row;>
 - 🌱I'm studying to be a Full-stack developer  
    
 - ⚡ I'm based in Germany
