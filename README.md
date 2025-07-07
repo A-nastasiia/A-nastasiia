@@ -6,7 +6,6 @@
    
 - ⚡ I'm based in Germany
 
-  
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/df9aaa4a-a01d-4dd0-8ef5-c4b910cc3032" alt=".">
+  <img src="https://github.com/user-attachments/assets/bd7f2855-5bd0-4a34-b473-5512062576ec" alt=".">
 </div>
