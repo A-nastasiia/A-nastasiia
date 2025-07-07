@@ -3,7 +3,9 @@ My name is Anastasiia Nikolaienko🌝
 </div>  
 
 <div align="left">
-- 🌱I'm studying to be a Full-stack developer  
+- 🌱I'm studying to be a Full-stack developer 
+</div>
+<div align="left">
 - ⚡ I'm based in Germany
 </div>
 
