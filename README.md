@@ -8,5 +8,5 @@
 
   
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9735e6e4-f9a3-4c29-bd30-2fa0a2f9c0a4" alt=".">
+  <img src="https://github.com/user-attachments/assets/df9aaa4a-a01d-4dd0-8ef5-c4b910cc3032" alt=".">
 </div>
