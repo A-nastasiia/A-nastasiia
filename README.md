@@ -1,9 +1,7 @@
 ### <div align="center">My name is Anastasiia Nikolaienko🌝
 </div>  
   
-<div  display: flex;
-        gab: 20px;
-  flex-direction: row;>
+<div  display: flex;>
 - 🌱I'm studying to be a Full-stack developer  
    
 - ⚡ I'm based in Germany
